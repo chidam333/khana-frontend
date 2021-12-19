@@ -47,4 +47,12 @@ This is a responsive web application for viewing in both Mobile and Desktop.
   
   ## SCREENSHOTS
    ![Screenshot (26)](https://user-images.githubusercontent.com/92255903/146674297-3bf725b7-c675-4723-acd4-3bd51e9d3e37.png)
+   ![Screenshot (25)](https://user-images.githubusercontent.com/92255903/146674336-e66caf96-2555-4388-8f8b-4baf53a9a830.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/92255903/146674341-0a58f13d-0c1b-4364-959b-85b656190911.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/92255903/146674344-489772ce-db87-4d84-817f-e5c842f27224.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/92255903/146674346-17bc1be1-4ca9-4bb4-afce-74606eaff45d.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/92255903/146674349-012392d6-4fb0-4469-97ff-cdd7b00b7eac.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/92255903/146674353-677d5a22-2840-4d38-a6a4-2c846b9b7c41.png)
+
+
    
