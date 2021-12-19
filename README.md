@@ -1,3 +1,5 @@
+![Screenshot (16)](https://user-images.githubusercontent.com/92255903/146667849-ab3fe435-f4f6-4502-9267-a64fb87c728f.png)
+
 ### KHANA-a simple restaurant application
 KHANA is a Restaurant reservation application which was made using React JS, a JavaScript library to make awesome UI ,HTML,Bootstrap, Flask and Firebase.
 
@@ -20,17 +22,17 @@ Finally, we deploy the website using Heroku which is a cloud service platform.
 This is a responsive web application for viewing in both Mobile and Desktop.
 ## Features
 
-   Code is rewritten with React JS 17 
+   1. Code is rewritten with React JS 17 
    
-   Latest features of Bootstrap is used
+   2. Latest features of Bootstrap is used
    
-   Latest features of HTML5 is used
+   3. Latest features of HTML5 is used
    
-   The API is build using Flask 
+   4. The API is build using Flask 
    
-   The data used in the application is stored in Firebase
+   5. The data used in the application is stored in Firebase
    
-   React JS Hooks are used with Functional components
+   6. React JS Hooks are used with Functional components
   
 
 
