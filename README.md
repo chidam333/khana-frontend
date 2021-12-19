@@ -1,4 +1,4 @@
-![Screenshot (16)](https://user-images.githubusercontent.com/92255903/146667849-ab3fe435-f4f6-4502-9267-a64fb87c728f.png)
+![khanapng](https://user-images.githubusercontent.com/92255903/146668691-e161d24e-3b02-4dea-b6a7-2be48b7c8091.png)
 
 ### KHANA-a simple restaurant application
 KHANA is a Restaurant reservation application which was made using React JS, a JavaScript library to make awesome UI ,HTML,Bootstrap, Flask and Firebase.
