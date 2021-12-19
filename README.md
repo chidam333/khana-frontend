@@ -22,17 +22,14 @@ Finally, we deploy the website using Heroku which is a cloud service platform.
 This is a responsive web application for viewing in both Mobile and Desktop.
 ## Features
 
-   1. Code is rewritten with React JS 17 
-   
-   2. Latest features of Bootstrap is used
-   
-   3. Latest features of HTML5 is used
-   
-   4. The API is build using Flask 
-   
-   5. The data used in the application is stored in Firebase
-   
-   6. React JS Hooks are used with Functional components
+   <ul>
+	<li>Code is rewritten with React JS 17</li> 
+	<li>Latest features of Bootstrap is used</li>
+	<li>Latest features of HTML5 is used</li>
+	<li>The API is build using Flask</li> 
+   	<li>The data used in the application is stored in Firebase</li>
+   	<li>React JS Hooks are used with Functional components</li>
+	</ul>
   
 
 
