@@ -46,4 +46,5 @@ This is a responsive web application for viewing in both Mobile and Desktop.
 	When the customer chooses a restaurant , the information regarding the vacancies for the table will be visible, and will be available to reserve.
   
   ## SCREENSHOTS
+   ![Screenshot (26)](https://user-images.githubusercontent.com/92255903/146674297-3bf725b7-c675-4723-acd4-3bd51e9d3e37.png)
    
