@@ -22,7 +22,7 @@ export default function Search()  {
                 <option value="8">10-11pm</option>
             </select>
           <span class="input-btn">
-            <button class="btn-4 text-center" type="submit" value="submit">RESEREVE NOW</button>
+            <a href="https://khana.vercel.app/show1" class="btn-4 text-center">RESEREVE NOW</a>
           </span>
           </div>
         </div>
