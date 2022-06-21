@@ -7,122 +7,122 @@ export default function Show() {
             <div className="listseats"><h1>The vacant seats</h1></div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <br/>
@@ -130,122 +130,122 @@ export default function Show() {
             <br/>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podag">
-                    <a href="http://localhost:3000/showi" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showi" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <div className="col-lg-1">
                 <div className="podar">
-                    <a href="http://localhost:3000/showl" class="podaseat"><p>ㅤ</p></a>                    
+                    <a href="http://khana.vercel.app/showl" class="podaseat"><p>ㅤ</p></a>                    
                 </div>            
             </div>
             <br/>
